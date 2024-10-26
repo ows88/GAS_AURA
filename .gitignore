@@ -9,8 +9,8 @@ Build
 *.VC.db
 *.opensdf
 *.opendb
-*.sdh
+*.sdf
 *.sln
 *.suo
-*.xcodeprog
+*.xcodeproj
 *.xcworkspace
